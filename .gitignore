@@ -1,0 +1,17 @@
+# Virtual environment
+.venv
+venv
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+
+# PyCharm
+.idea/
+
+# PYPI
+build/
+dist/
+postprice.egg-info/
